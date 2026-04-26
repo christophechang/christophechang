@@ -21,8 +21,8 @@ Outside of code: I DJ as **[Changsta](https://changsta.com)** — House, D&B, Br
 ## Stack
 
 ```
-Languages        C# · TypeScript · Python · SQL
-Frameworks       .NET 8 · ASP.NET MVC · React · Entity Framework
+Languages        C# · Python · SQL
+Frameworks       .NET 10 · ASP.NET MVC · AP.NET WEB.API · Entity Framework 
 Cloud            Azure (App Services, Functions, DevOps, Storage, SQL)
 Tooling          Docker · GitHub Actions · Claude Code · VS Code
 ```
@@ -35,17 +35,11 @@ Tooling          Docker · GitHub Actions · Claude Code · VS Code
 |---|---|
 | **[MixLab](https://changsta.com)** | AI DJ curation pipeline — reads Rekordbox XML, generates sequenced sets with harmonic arcs and energy curves |
 | **[TuneFinder](https://github.com/christophechang)** | AI music discovery — scores new releases against mix history using Groq / Gemini / Claude cascade |
+| **[AI Mix Recommeneder API]([[https://github.com/christophechang](https://github.com/christophechang/soundcloud-ai-mix-recommender-api)](https://github.com/christophechang/soundcloud-ai-mix-recommender-api))** | AI music discovery — scores new releases against mix history using Groq / Gemini / Claude cascade |
 | **Changsta.com** | Public DJ site — mixes, releases, the MixLab album cover series |
 
 ---
 
-## MixLab Cover Series
-
-A typographic album cover system built with HTML + Playwright. Five covers in, fixed design language: Bebas Neue · Oswald · Space Mono · `#F5E000` accent · 3×3 pip grid.
-
-> Precision Underground.
-
----
 
 ## Connect
 
