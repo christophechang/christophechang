@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=F5E000&center=true&vCenter=true&repeat=false&width=600&lines=Christophe+Chang)](https://github.com/christophechang)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=AAAAAA&center=true&vCenter=true&repeat=true&width=600&lines=Senior+.NET+%2F+Azure+Architect;Solutions+Architect+%40+Soltech+Consulting;25+years+shipping+production+systems)](https://github.com/christophechang)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=AAAAAA&center=true&vCenter=true&repeat=true&width=600&lines=Senior+.NET+%2F+Azure+Architect;Lead+Developer+And+Technical+Architect+%40+Soltech+Consulting;25+years+shipping+production+systems)](https://github.com/christophechang)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## About
 
-Senior Solutions Architect and Technical Lead with 25 years of experience building production systems on .NET and Azure. I run **[Soltech Consulting Ltd](https://soltechconsulting.co.uk)** — architecture, delivery, and technical leadership for organisations that need things to actually work.
+Lead .NET Developer and Technical Architect with 25 years of experience building production systems on .NET and Azure. I run **[Soltech Consulting Ltd](https://soltechconsulting.co.uk)** — architecture, delivery, and technical leadership for organisations that need things to actually work.
 
 Outside of code: I DJ as **[Changsta](https://www.changsta.com)** — House, D&B, Breakbeat, Funk, Hip Hop, UK Bass, UK Garage. Music and software share more than people think.
 
