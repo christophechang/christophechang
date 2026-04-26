@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=F5E000&center=true&vCenter=true&repeat=false&width=600&lines=Christophe+Chang)](https://github.com/christophechang)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=AAAAAA&center=true&vCenter=true&repeat=true&width=600&lines=Senior+.NET+%2F+Azure+Architect;Solutions+Architect+%40+Soltech+Consulting;25+years+shipping+production+systems;DJ+%2F+Changsta+%E2%80%94+House+%2F+D%26B+%2F+Breakbeat)](https://github.com/christophechang)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=AAAAAA&center=true&vCenter=true&repeat=true&width=600&lines=Senior+.NET+%2F+Azure+Architect;Solutions+Architect+%40+Soltech+Consulting;25+years+shipping+production+systems)](https://github.com/christophechang)
 
 </div>
 
@@ -35,7 +35,6 @@ Tooling          Docker · GitHub Actions · Claude Code · VS Code
 |---|---|
 | **[MixLab](https://changsta.com)** | AI DJ curation pipeline — reads Rekordbox XML, generates sequenced sets with harmonic arcs and energy curves |
 | **[TuneFinder](https://github.com/christophechang)** | AI music discovery — scores new releases against mix history using Groq / Gemini / Claude cascade |
-| **[Soltech MVC](https://soltechconsulting.co.uk)** | Full-stack .NET 8 + React consultancy platform |
 | **Changsta.com** | Public DJ site — mixes, releases, the MixLab album cover series |
 
 ---
