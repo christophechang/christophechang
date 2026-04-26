@@ -14,7 +14,7 @@
 
 Senior Solutions Architect and Technical Lead with 25 years of experience building production systems on .NET and Azure. I run **[Soltech Consulting Ltd](https://soltechconsulting.co.uk)** — architecture, delivery, and technical leadership for organisations that need things to actually work.
 
-Outside of code: I DJ as **[Changsta](https://changsta.com)** — House, D&B, Breakbeat, Funk, Hip Hop, UK Bass, UK Garage. Music and software share more than people think.
+Outside of code: I DJ as **[Changsta](https://www.changsta.com)** — House, D&B, Breakbeat, Funk, Hip Hop, UK Bass, UK Garage. Music and software share more than people think.
 
 ---
 
@@ -33,8 +33,8 @@ Tooling          Docker · GitHub Actions · Claude Code · VS Code
 
 | Project | Description |
 |---|---|
-| **[MixLab](https://changsta.com)** | AI DJ curation pipeline — reads Rekordbox XML, generates sequenced sets with harmonic arcs and energy curves |
-| **[TuneFinder](https://github.com/christophechang)** | AI music discovery — scores new releases against mix history using Groq / Gemini / Claude cascade |
+| **[MixLab]([https://www.changsta.com](https://github.com/christophechang/MixLab))** | AI DJ curation pipeline — reads Rekordbox XML, generates sequenced sets with harmonic arcs and energy curves |
+| **[TuneFinder]([https://github.com/christophechang](https://github.com/christophechang/TuneFinder))** | AI music discovery — scores new releases against mix history using Groq / Gemini / Claude cascade |
 | **[AI Mix Recommeneder API]([[https://github.com/christophechang](https://github.com/christophechang/soundcloud-ai-mix-recommender-api)](https://github.com/christophechang/soundcloud-ai-mix-recommender-api))** | AI music discovery — scores new releases against mix history using Groq / Gemini / Claude cascade |
 | **Changsta.com** | Public DJ site — mixes, releases, the MixLab album cover series |
 
