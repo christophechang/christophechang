@@ -22,7 +22,7 @@ Outside of code: I DJ as **[Changsta](https://www.changsta.com)** — House, D&B
 
 ```
 Languages        C# · Python · SQL
-Frameworks       .NET 10 · ASP.NET MVC · AP.NET WEB.API · Entity Framework 
+Frameworks       .NET 10 · ASP.NET MVC · ASP.NET WEB.API · Entity Framework 
 Cloud            Azure (App Services, Functions, DevOps, Storage, SQL)
 Tooling          Docker · GitHub Actions · Claude Code · VS Code
 ```
