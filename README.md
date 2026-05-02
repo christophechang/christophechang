@@ -36,7 +36,7 @@ Tooling          Docker · GitHub Actions · Claude Code · VS Code
 | **[MixLab]([https://www.changsta.com](https://github.com/christophechang/MixLab))** | AI DJ curation pipeline — reads Rekordbox XML, generates sequenced sets with harmonic arcs and energy curves |
 | **[TuneFinder]([https://github.com/christophechang](https://github.com/christophechang/TuneFinder))** | AI music discovery — scores new releases against mix history using Groq / Gemini / Claude cascade |
 | **[MixLab]([https://www.changsta.com](https://github.com/christophechang/rekordbox-meta-data-enrichment))** | AI Rekordbox enrichment tool — reads Rekordbox XML, then tried to enrich missing meta data using discofgs and musicbrainz apis |
-| **[AI Mix Recommeneder API]([[https://github.com/christophechang](https://github.com/christophechang/soundcloud-ai-mix-recommender-api)](https://github.com/christophechang/soundcloud-ai-mix-recommender-api))** | AI music discovery — scores new releases against mix history using Groq / Gemini / Claude cascade |
+| **[AI Mix Recommeneder API]([[https://github.com/christophechang](https://github.com/christophechang/soundcloud-ai-mix-recommender-api)](https://github.com/christophechang/soundcloud-ai-mix-recommender-api))** | AI music discovery — API that powers changsta.com that serves as a catalogue of released material and also servers up AI recommendations |
 
 ---
 
