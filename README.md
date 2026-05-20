@@ -43,3 +43,44 @@ Infrastructure   GitHub Actions · Bicep · Docker · Cloudflare Workers · Clou
 Observability    OpenTelemetry · Azure Monitor · Application Insights
 Data / Messaging RSS · JSON APIs · Discord Bots · SoundCloud RSS ingestion
 Tooling          Git · VS Code · Claude Code · Rekordbox · Mixed In Key
+```
+
+---
+
+## Featured Projects
+
+| Project | What it does |
+|---|---|
+| **[MixLab](https://github.com/christophechang/MixLab)** | AI-assisted DJ set generation system that analyses Rekordbox collections and builds structured mix concepts using harmonic compatibility, energy flow, metadata enrichment, and staged LLM orchestration. |
+| **[TuneFinder](https://github.com/christophechang/TuneFinder)** | Automated music discovery pipeline that monitors new releases across multiple platforms, scores them against historical mix behaviour, and delivers curated weekly reports to Discord. |
+| **[Rekordbox Metadata Enrichment](https://github.com/christophechang/rekordbox-meta-data-enrichment)** | Metadata enrichment tool for Rekordbox libraries using MusicBrainz, Discogs, confidence scoring, caching, and LLM-assisted disambiguation. |
+| **[SoundCloud AI Mix Recommender API](https://github.com/christophechang/soundcloud-ai-mix-recommender-api)** | Production-ready .NET API powering changsta.com, combining deterministic validation with AI reasoning to recommend DJ mixes from structured catalogue metadata. |
+
+---
+
+## Engineering Style
+
+- Production-first thinking
+- Architecture grounded in operational reality
+- CI/CD and automated delivery
+- Strong validation and guardrails around AI systems
+- Cost-aware LLM orchestration
+- Preference for simple, maintainable solutions
+- Hands-on delivery over theoretical architecture
+
+---
+
+## Connect
+
+[![Website](https://img.shields.io/badge/Soltech_Consulting-soltechconsulting.co.uk-F5E000?style=flat-square&logoColor=black)](https://soltechconsulting.co.uk)
+[![Changsta](https://img.shields.io/badge/Changsta-changsta.com-111111?style=flat-square&logoColor=white)](https://changsta.com)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-changsta-FF5500?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/changsta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christophe_Chang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/christophechang)
+
+---
+
+<div align="center">
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=80&section=footer)](https://github.com/christophechang)
+
+</div>
