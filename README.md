@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=F5E000&center=true&vCenter=true&repeat=false&width=700&lines=Christophe+Chang)](https://github.com/christophechang)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=2600&pause=900&color=AAAAAA&center=true&vCenter=true&repeat=true&width=850&lines=Senior+.NET+%2F+Azure+Architect;AI-assisted+systems+and+automation;Production-grade+APIs+and+cloud+platforms;Hands-on+engineering+leadership)](https://github.com/christophechang)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=2600&pause=900&color=AAAAAA&center=true&vCenter=true&repeat=true&width=850&lines=.NET+%2F+Azure+architect;LLMs+in+production%2C+with+guardrails;APIs%2C+cloud+platforms%2C+automation;Hands-on+delivery%2C+not+slide+decks)](https://github.com/christophechang)
 
 </div>
 
@@ -12,11 +12,13 @@
 
 ## About
 
-Senior .NET Developer and Technical Architect specialising in production systems across web, APIs, cloud infrastructure, automation, and data pipelines.
+I'm a .NET and Azure architect who builds production systems — APIs, cloud platforms, automation, and data pipelines. Lately most of that work involves wiring LLMs into real products and keeping them on a leash: validation, guardrails, and cost control so the AI helps without going off the rails.
 
-My work typically spans architecture, implementation, CI/CD, observability, cloud infrastructure, and operational delivery.
+I run **[Soltech Consulting Ltd](https://soltechconsulting.co.uk)**, where I take on architecture and hands-on engineering for teams that need something shipped rather than a deck about shipping it. In practice that means owning the whole path — design, build, CI/CD, observability, and the operational corners everyone forgets until production.
 
-Current areas of interest:
+Most of my open work sits at the intersection of audio and AI: harmonic analysis, recommendation, metadata enrichment, and staged LLM orchestration. It comes from the other half of my life — I DJ and produce as **[Changsta](https://www.changsta.com)** across House, Drum & Bass, Breakbeat, UK Garage, UK Bass, Funk, and Hip Hop, which is where most of these problems start.
+
+What I'm digging into right now:
 
 - AI-assisted engineering workflows
 - LLM orchestration and guardrails
@@ -26,9 +28,7 @@ Current areas of interest:
 - Developer tooling
 - Music-tech systems
 
-I run **[Soltech Consulting Ltd](https://soltechconsulting.co.uk)**, delivering hands-on architecture and engineering leadership for organisations that need experienced technical delivery rather than slide decks.
-
-Outside of software, I DJ and produce mixes as **[Changsta](https://www.changsta.com)** across House, Drum & Bass, Breakbeat, UK Garage, UK Bass, Funk, and Hip Hop.
+> **Available for fractional architecture and AI-integration work.** If your team needs an experienced pair of hands on .NET, Azure, or shipping LLM features safely, [let's talk](https://soltechconsulting.co.uk) or reach me on [LinkedIn](https://linkedin.com/in/christophechang).
 
 ---
 
@@ -51,22 +51,31 @@ Tooling          Git · VS Code · Claude Code · Rekordbox · Mixed In Key
 
 | Project | What it does |
 |---|---|
-| **[MixLab](https://github.com/christophechang/MixLab)** | AI-assisted DJ set generation system that analyses Rekordbox collections and builds structured mix concepts using harmonic compatibility, energy flow, metadata enrichment, and staged LLM orchestration. |
-| **[TuneFinder](https://github.com/christophechang/TuneFinder)** | Automated music discovery pipeline that monitors new releases across multiple platforms, scores them against historical mix behaviour, and delivers curated weekly reports to Discord. |
-| **[Rekordbox Metadata Enrichment](https://github.com/christophechang/rekordbox-meta-data-enrichment)** | Metadata enrichment tool for Rekordbox libraries using MusicBrainz, Discogs, confidence scoring, caching, and LLM-assisted disambiguation. |
-| **[SoundCloud AI Mix Recommender API](https://github.com/christophechang/soundcloud-ai-mix-recommender-api)** | Production-ready .NET API powering changsta.com, combining deterministic validation with AI reasoning to recommend DJ mixes from structured catalogue metadata. |
+| **[MixLab](https://github.com/christophechang/MixLab)** | AI-assisted DJ set generation that reads a Rekordbox collection and builds structured mix concepts from harmonic compatibility, energy flow, and enriched metadata. Uses staged LLM orchestration rather than one oversized prompt, so each step stays cheap and checkable. |
+| **[TuneFinder](https://github.com/christophechang/TuneFinder)** | Music discovery pipeline that watches new releases across platforms, scores them against how I actually mix, and posts a curated weekly report to Discord. |
+| **[Rekordbox Metadata Enrichment](https://github.com/christophechang/rekordbox-meta-data-enrichment)** | Fills gaps in Rekordbox libraries using MusicBrainz and Discogs, with confidence scoring, caching, and LLM-assisted disambiguation for the ambiguous cases. |
+| **[SoundCloud AI Mix Recommender API](https://github.com/christophechang/soundcloud-ai-mix-recommender-api)** | The .NET API behind changsta.com. Pairs deterministic validation with AI reasoning to recommend mixes from structured catalogue metadata — the AI suggests, the rules decide. |
 
 ---
 
-## Engineering Style
+## How I Work
 
-- Production-first thinking
-- Architecture grounded in operational reality
-- CI/CD and automated delivery
-- Strong validation and guardrails around AI systems
-- Cost-aware LLM orchestration
-- Preference for simple, maintainable solutions
-- Hands-on delivery over theoretical architecture
+- Production-first: I design for the day it's live, not the demo.
+- Deterministic rules around non-deterministic models — the validation layer in the [SoundCloud recommender](https://github.com/christophechang/soundcloud-ai-mix-recommender-api) is a good example.
+- Cost-aware LLM orchestration: staged, checkable steps over one giant prompt, as in [MixLab](https://github.com/christophechang/MixLab).
+- CI/CD and observability treated as part of the build, not an afterthought.
+- Simple and maintainable beats clever, most of the time.
+
+---
+
+## Activity
+
+<div align="center">
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=christophechang&show_icons=true&hide_border=true&title_color=F5E000&icon_color=F5E000&text_color=AAAAAA&bg_color=00000000&include_all_commits=true&count_private=true)](https://github.com/christophechang)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christophechang&layout=compact&hide_border=true&title_color=F5E000&text_color=AAAAAA&bg_color=00000000&langs_count=8)](https://github.com/christophechang)
+
+</div>
 
 ---
 
