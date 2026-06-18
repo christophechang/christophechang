@@ -12,11 +12,11 @@
 
 ## About
 
-I'm a .NET and Azure architect who builds production systems — APIs, cloud platforms, automation, and data pipelines. Lately most of that work involves wiring LLMs into real products and keeping them on a leash: validation, guardrails, and cost control so the AI helps without going off the rails.
+I'm a .NET and Azure architect who builds production systems, APIs, cloud platforms, automation, and data pipelines. Lately most of that work involves wiring LLMs into real products and keeping them on a leash: validation, guardrails, and cost control so the AI helps without going off the rails.
 
-I run **[Soltech Consulting Ltd](https://soltechconsulting.co.uk)**, where I take on architecture and hands-on engineering for teams that need something shipped rather than a deck about shipping it. In practice that means owning the whole path — design, build, CI/CD, observability, and the operational corners everyone forgets until production. That work has included enterprise systems for clients like **Microsoft, Rolex, Jaguar Land Rover, Coca-Cola, Bowers & Wilkins, ARAMCO, and SABIC**.
+I run **[Soltech Consulting Ltd](https://soltechconsulting.co.uk)**, where I take on architecture and hands-on engineering for teams that need something shipped rather than a deck about shipping it. In practice that means owning the whole path from design, build, CI/CD, observability, and the operational corners everyone forgets until production. That work has included enterprise systems for clients like **Microsoft, Rolex, Jaguar Land Rover, Coca-Cola, Bowers & Wilkins, ARAMCO, and SABIC**.
 
-Most of my open work sits at the intersection of audio and AI: harmonic analysis, recommendation, metadata enrichment, and staged LLM orchestration. It comes from the other half of my life — I DJ and produce as **[Changsta](https://www.changsta.com)** across House, Drum & Bass, Breakbeat, UK Garage, UK Bass, Funk, and Hip Hop, which is where most of these problems start.
+Most of my open work sits at the intersection of audio and AI: harmonic analysis, recommendation, metadata enrichment, and staged LLM orchestration. It comes from the other half of my life,  I DJ as **[Changsta](https://www.changsta.com)** across House, Drum & Bass, Breakbeat, UK Garage, UK Bass, Funk, and Hip Hop, which is where most of these problems start.
 
 What I'm digging into right now:
 
